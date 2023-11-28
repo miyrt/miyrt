@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @miyrt Erika Close             
 - 👀 I’m interested in anything related to Oracle database administration
 - 🌱 I’m currently learning more detailed information about RAC and dataguard
-- and 19c features as I took a brief time out from database adminstrion in 2018
-- to 2021 and tried my hand at being a Documentum administrator.  I also want to
+- and 19c features as I took a brief time out from database adminstration in 2018
+- to 2021 to tried my hand at being a Documentum administrator.  I also want to
 - take the certification tests for oracle just for my own gratification.  I worked
 - from 2021 to 2023 present as an oracle dba supporting oracle 11g to 19g.
 - Supporting even dataguard.  I want to be an expert. So I still an studying in
